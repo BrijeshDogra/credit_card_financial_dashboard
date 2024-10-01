@@ -1,2 +1,3 @@
 # credit_card_financial_dashboard
-Credit Card Dashboards
+Credit Card Financial Dashboard using Power BI
+
